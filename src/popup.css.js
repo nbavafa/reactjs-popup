@@ -13,6 +13,7 @@ export default {
       position: "relative",
       background: `rgb(255, 255, 255)`,
       width: "50%",
+      minWidth: "900px",
       margin: "auto",
       border: `1px solid rgb(187, 187, 187)`,
       padding: "5px"
